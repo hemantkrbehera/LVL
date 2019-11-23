@@ -9,7 +9,7 @@ dbms_output.put_line(x);
 end;
 
 
-delete from emp where employee_id=100;
+delete from emp where employee_id=101;
 
 
 
@@ -29,7 +29,7 @@ select count(*) into x from emp;
 dbms_output.put_line(x);
 end;
 
-delete from emp where employee_id=110;
+delete from emp where employee_id=111;
 
 
 
